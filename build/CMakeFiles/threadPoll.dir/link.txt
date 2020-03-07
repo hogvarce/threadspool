@@ -1,1 +1,0 @@
-/usr/lib64/ccache/c++    -rdynamic CMakeFiles/threadPoll.dir/main.o  -o threadPoll  -lpthread 

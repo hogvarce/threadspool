@@ -1,3 +1,0 @@
-/home/anton/Work/cpp_projects/threadPoll/build/CMakeFiles/rebuild_cache.dir
-/home/anton/Work/cpp_projects/threadPoll/build/CMakeFiles/threadPoll.dir
-/home/anton/Work/cpp_projects/threadPoll/build/CMakeFiles/edit_cache.dir
